@@ -1,7 +1,7 @@
 // ส่วนของหน้าแสดงข้อมูลสินค้าเบื้องตนบนหน้าเว็บหลัก
 var product = [{
   id: 1,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/b/be/S002_Stage4.webp/revision/latest?cb=20220910072159',
+  img: 'Picture/S002_Stage4.jpg',
   name: 'Artoria Pendragon',
   price: 7000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -9,7 +9,7 @@ var product = [{
 }, 
 {
   id: 2,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/6/6a/S012_Stage4.webp/revision/latest?cb=20220910075506',
+  img: 'Picture/S012_Stage4.jpg',
   name: 'Gilgamesh',
   price: 1500,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -17,7 +17,7 @@ var product = [{
 }, 
 {
   id: 3,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/7/76/S070_Stage4.webp/revision/latest?cb=20220910152643',
+  img: 'Picture/S070_Stage4.jpg',
   name: 'Scáthach',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -25,7 +25,7 @@ var product = [{
 },
 {
   id: 4,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/2/2d/S118_Stage4.webp/revision/latest?cb=20220911064442',
+  img: 'Picture/S118_Stage4.jpg',
   name: 'Ozymandias',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -33,7 +33,7 @@ var product = [{
 },
 {
   id: 5,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/b/b7/S062_Stage4.webp/revision/latest?cb=20220910130846',
+  img: 'Picture/S062_Stage4.jpg',
   name: 'Tamamo no Mae',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -41,7 +41,7 @@ var product = [{
 },
 {
   id: 6,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/b/b2/S154_Stage4.webp/revision/latest?cb=20220911082512',
+  img: 'Picture/S154_Stage4.jpg',
   name: 'The Old Man of the Mountain',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -49,7 +49,7 @@ var product = [{
 },
 {
   id: 7,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/0/0e/S247_Stage4.webp/revision/latest?cb=20220917062110',
+  img: 'Picture/S247_Stage4.jpg',
   name: 'Arjuna (Alter)',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -57,7 +57,7 @@ var product = [{
 },
 {
   id: 8,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/5/53/S059_Stage4.webp/revision/latest?cb=20220910122531',
+  img: 'Picture/S059_Stage4.jpg',
   name: 'Jeanne dArc',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -65,7 +65,7 @@ var product = [{
 },
 {
   id: 9,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/8/8a/S106_Stage4.webp/revision/latest?cb=20220911061659',
+  img: 'Picture/S106_Stage4.jpg',
   name: 'Jeanne d Arc(Alter)',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -73,7 +73,7 @@ var product = [{
 },
 {
   id: 10,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/f/f2/S351_Stage4.webp/revision/latest?cb=20220925064944',
+  img: 'Picture/S351_Stage4.jpg',
   name: 'Archetype: Earth',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -81,7 +81,7 @@ var product = [{
 },
 {
   id: 11,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/4/4c/S167_Stage4.webp/revision/latest?cb=20220911122817',
+  img: 'Picture/S167_Stage4.jpg',
   name: 'Sesshōin Kiara',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -89,7 +89,7 @@ var product = [{
 },
 {
   id: 12,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/b/bc/S195_Stage4.webp/revision/latest?cb=20220911135622',
+  img: 'Picture/S195_Stage4.jpg',
   name: 'Abigail Williams',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -97,7 +97,7 @@ var product = [{
 },
 {
   id: 13,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/4/40/S316_Stage4.webp/revision/latest?cb=20220925055829',
+  img: 'Picture/S316_Stage4.jpg',
   name: 'Oberon',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -105,7 +105,7 @@ var product = [{
 },
 {
   id: 14,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/b/b5/S001_Stage4.webp/revision/latest?cb=20220910072106',
+  img: 'Picture/S001_Stage4.jpg',
   name: 'Mashu Kyrielight',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
@@ -113,7 +113,7 @@ var product = [{
 },
 {
   id: 15,
-  img: 'Picture/S001A4GIcon.jpg',
+  img: 'Picture/S149_Dragonoid_Portrait.jpg',
   name: 'Tiamat',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
