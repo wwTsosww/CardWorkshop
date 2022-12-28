@@ -113,7 +113,7 @@ var product = [{
 },
 {
   id: 15,
-  img: 'https://static.wikia.nocookie.net/fategrandorder/images/7/74/S149_Dragonoid_Portrait.png/revision/latest?cb=20220129125733',
+  img: 'Picture/S001A4GIcon.jpg',
   name: 'Tiamat',
   price: 45000,
   description: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, labore dolorum optio ad consequatur cupiditate!',
